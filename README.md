@@ -1,8 +1,8 @@
-# 📊 Previsão de Emissões de CO₂ — Regressão Linear
+#  Previsão de Emissões de CO₂ — Regressão Linear
 
 Projeto de Machine Learning desenvolvido para estudar a aplicação de **Regressão Linear** em um problema de previsão de emissões de CO₂ de veículos.
 
-## 🎯 Objetivo
+##  Objetivo
 
 Construir um modelo de regressão capaz de estimar as **emissões de CO₂ (g/km)** a partir de uma variável preditora relacionada às características dos veículos.
 
